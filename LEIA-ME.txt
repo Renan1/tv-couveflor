@@ -1,0 +1,6 @@
+TV Couve Flor - como atualizar o conteudo
+Coloque imagens/videos na pasta "conteudo" com nome de dois digitos + extensao:
+01.png, 02.jpg, 03.mp4 ... (o numero define a ordem; imagem: jpg/png/webp/gif; video: mp4 H.264).
+Para remover, apague o arquivo. Para reordenar, renomeie o numero.
+No GitHub: abrir "conteudo" > Add file > Upload files > Commit. Atualiza em 1-2 minutos.
+Detalhes tecnicos e configuracao do Raspberry: veja CLAUDE.md
